@@ -1,2 +1,2 @@
-# EugSpace
-a directory of spaces in eugene
+# Digital Nomads
+Eugene as a distination for digital nomads 
