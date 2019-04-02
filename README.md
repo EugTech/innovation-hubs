@@ -1,2 +1,3 @@
-# Digital Nomads
-Eugene as a distination for digital nomads 
+# Innovation Hubs
+
+planning repo for coordinating efforts across the innovation hubs
